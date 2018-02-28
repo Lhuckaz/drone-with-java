@@ -7,7 +7,7 @@ public class Main {
     }
 
     public static int getOne() {
-        return 2;
+        return 1;
     }
 
 }
